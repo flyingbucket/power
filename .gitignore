@@ -1,0 +1,9 @@
+powenv/__pycache__/
+powenv/Include/
+powenv/Lib/
+powenv/Scripts/
+powenv/share/
+
+*.pyc
+*.bak
+*.swp
